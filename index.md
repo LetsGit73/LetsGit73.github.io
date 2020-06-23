@@ -11,3 +11,5 @@ Micky Maus ist die bekannteste Figur aus der Disneywelt und trat auch als Comicf
 
 > I’ve always been more interested
 > in the future than in the past.
+
+<img src="http://www.supercoloring.com/sites/default/files/styles/coloring_medium/public/cif/2017/03/mickey-are-juggling-easter-eggs-coloring-page.png"/>
