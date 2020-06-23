@@ -8,3 +8,6 @@ Micky Maus ist die bekannteste Figur aus der Disneywelt und trat auch als Comicf
 * Dagobert ist sehr reich, gibt aber nicht gerne Geld aus. 
 * Goofy ist ziemlich tollpatschig, hält aber immer zu seinen Freunden. 
 * Pluto ist ein treuer Hund, der Micky gehört.
+
+> I’ve always been more interested
+> in the future than in the past.
